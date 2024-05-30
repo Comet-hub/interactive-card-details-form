@@ -1,0 +1,25 @@
+.success__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 11px 0 29px 0;
+}
+.success__icon {
+  width: 80px;
+}
+.success__h {
+  text-align: center;
+  letter-spacing: 0.21rem;
+  margin: 1.4em 0 0.8em 0;
+}
+.success__p {
+  text-align: center;
+  color: var(--dark-greyish-violet);
+  margin: 0;
+}
+
+@media screen and (min-width: 1200px) {
+  .success__content {
+    margin: 47px 0 16px 0;
+  }
+}

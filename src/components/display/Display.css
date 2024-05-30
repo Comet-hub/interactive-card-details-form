@@ -1,0 +1,16 @@
+.info-display {
+  background-image: url(/bg-main-mobile.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 240px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  @media screen and (min-width: 1200px) {
+    background-image: url(/bg-main-desktop.png);
+    width: 483px;
+    height: 100%;
+  }
+}

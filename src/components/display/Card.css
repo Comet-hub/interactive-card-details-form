@@ -1,0 +1,8 @@
+.card {
+  width: 343px;
+  height: 100%;
+  position: relative;
+  @media screen and (min-width: 1200px) {
+    width: 483px;
+  }
+}
