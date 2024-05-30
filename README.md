@@ -48,8 +48,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Interactive card details form]()
-- Live Site URL: [Interactive card details form]()
+- Solution URL: [Interactive card details form](https://github.com/Comet-hub/interactive-card-details-form)
+- Live Site URL: [Interactive card details form](https://comet-hub.github.io/interactive-card-details-form/)
 
 ## My process
 
